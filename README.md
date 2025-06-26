@@ -41,4 +41,4 @@ citizen_ai/
 │ └── styles.css
 ├── .env
 ├── citizen_ai.db
-├── requirements.txt
+├── requirements.txt 
