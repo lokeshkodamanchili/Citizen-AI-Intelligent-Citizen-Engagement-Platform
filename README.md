@@ -1,35 +1,32 @@
 # 🤖 Citizen AI – Intelligent Citizen Engagement Platform
 
-Citizen AI is a smart and responsive web application developed during our internship with APSCHE under the IBM Cloud – Generative AI track. It empowers government transparency and public interaction through an AI-powered chatbot, sentiment analysis, and a dynamic data dashboard.
+Citizen AI is an intelligent, AI-powered chatbot platform designed to improve communication between citizens and government services. Built using Flask, IBM Granite models, and IBM Watson, it provides real-time responses to civic queries, analyzes public sentiment, and visualizes engagement insights through a dynamic dashboard.
 
 ---
 
-## 🔍 About the Project
+## 📌 Features
 
-Citizen AI helps citizens interact with government services more effectively by providing:
-
-- 💬 A real-time AI chatbot using IBM Granite
-- 🧠 Sentiment analysis of citizen feedback
-- 📊 Dynamic dashboards for administrators
-- 🗂 Contextual and personalized responses
-
-This platform is built using Flask and integrates IBM’s advanced large language models (LLMs) and Watson NLP.
+- 💬 **Real-Time AI Chatbot** – Ask questions about public services, documents, and civic procedures.
+- 😊 **Citizen Sentiment Analysis** – Understand the public mood from submitted feedback.
+- 📊 **Interactive Dashboard** – Visualizes feedback trends and sentiment data.
+- 🎯 **Context-Aware Responses** – Provides smarter replies by understanding the conversation flow.
+- 🗂️ **Modular Flask Backend** – Clean architecture for maintainability.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-- Python + Flask
-- HTML, CSS, JavaScript
-- IBM Granite (LLM)
-- SQLite for storage
-- IBM Watson NLP (for sentiment)
-- Bootstrap (frontend styling)
+- **Backend:** Python, Flask
+- **Frontend:** HTML, CSS, JavaScript (Bootstrap)
+- **AI Integration:** IBM Granite LLM, Watson NLP
+- **Database:** SQLite / PostgreSQL
+- **Others:** GitHub, OBS (for demo), Docker (optional)
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
+```bash
 citizen_ai/
 ├── app.py
 ├── templates/
@@ -41,4 +38,4 @@ citizen_ai/
 │ └── styles.css
 ├── .env
 ├── citizen_ai.db
-├── requirements.txt 
+├── requirements.txt
