@@ -39,3 +39,8 @@ citizen_ai/
 ├── .env
 ├── citizen_ai.db
 ├── requirements.txt
+
+
+
+
+📽️ [Watch the Demo Video](./VideoDemo/CitizenAI_Project_Demo.mp4)
