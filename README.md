@@ -43,4 +43,4 @@ citizen_ai/
 
 
 
-📽️ [Watch the Demo Video](./VideoDemo/CitizenAI_Project_Demo.mp4)
+📽️ [Watch the Demo Video](Video Demo/Citizen AI Demo video.mp4)
