@@ -5,7 +5,7 @@ Citizen AI is an intelligent, AI-powered chatbot platform designed to improve co
 ## 🖥 Preview
 
 ### 🌐 Website Home Page
-<img src="Video%Demo/assests/Dashboard_view.png" width="800">
+<img src="Video Demo/assests/Dashboard_view.png" width="800">
 
 ## 📌 Features
 
