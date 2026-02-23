@@ -15,7 +15,7 @@ Citizen AI is an intelligent, AI-powered chatbot platform designed to improve co
 - 🎯 **Context-Aware Responses** – Provides smarter replies by understanding the conversation flow.
 - 🗂️ **Modular Flask Backend** – Clean architecture for maintainability.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -25,7 +25,6 @@ Citizen AI is an intelligent, AI-powered chatbot platform designed to improve co
 - **Database:** SQLite / PostgreSQL
 - **Others:** GitHub, OBS (for demo), Docker (optional)
 
----
 
 ## 📁 Project Structure
 
@@ -43,7 +42,8 @@ citizen_ai/
 ├── citizen_ai.db
 ├── requirements.txt
 
-
-
+```
+## 🎥 Project Demo
 
 📽️ [Watch the Demo Video](Video%Demo/Citizen%AI%Demo%video.mp4)
+
