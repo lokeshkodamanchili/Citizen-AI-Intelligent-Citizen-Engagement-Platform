@@ -2,7 +2,10 @@
 
 Citizen AI is an intelligent, AI-powered chatbot platform designed to improve communication between citizens and government services. Built using Flask, IBM Granite models, and IBM Watson, it provides real-time responses to civic queries, analyzes public sentiment, and visualizes engagement insights through a dynamic dashboard.
 
----
+## 🖥 Preview
+
+### 🌐 Website Home Page
+<img src="Video%Demo/assests/Dashboard_view.png" width="800">
 
 ## 📌 Features
 
